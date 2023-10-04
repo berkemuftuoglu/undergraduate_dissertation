@@ -133,3 +133,8 @@ dmypy.json
 /files/results_first_approach
 .idea
 
+#others
+.DS_Store
+.vscode
+
+
